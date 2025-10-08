@@ -1,2 +1,2 @@
 # powerbi
-Visualação de vendaas e lucros por país. 
+Visualização de vendaas e lucros por país. 
